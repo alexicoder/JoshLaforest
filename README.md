@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoshLaforest
 - 👀 I’m interested in creating immersive experiences.
-- 🌱 I’m currently learning Game Development 
-- 💞️ I’m looking to collaborate on anything video game related. Although I am at the very beginning of my journey so I can't help with much just yet. :)
+- 🌱  
+- 💞️ 
 - 📫 How to reach me Twitter: @joshlaforest. 
 
 <!---
