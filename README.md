@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoshLaforest
+- 👋 Hi, I’m @alexithewise
 - 👀 I’m interested in creating immersive experiences.
 - 🌱  
 - 💞️ 
